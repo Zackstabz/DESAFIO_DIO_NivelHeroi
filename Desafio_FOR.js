@@ -27,6 +27,6 @@ for (let i = 0; i < 3; i++) { // Simulando 3 aumentos de experiência
     nivelHeroi = "Radiante";
   }
 
-  // Mensagem com NOME e NÍVEL do herói e IMPLEMENTEI a Experiência!
+  // Mensagem com NOME e NÍVEL do herói e implementei a Experiência!
   console.log("O herói " + nomeHeroi + " está no nível " + nivelHeroi + " com " + xpHeroi + " de experiência.");
 }
